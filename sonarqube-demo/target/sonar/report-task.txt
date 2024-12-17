@@ -1,0 +1,6 @@
+projectKey=r507
+serverUrl=http://localhost:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9000/dashboard?id=r507
+ceTaskId=470181c3-dcd7-4b2d-8e45-c785684090c2
+ceTaskUrl=http://localhost:9000/api/ce/task?id=470181c3-dcd7-4b2d-8e45-c785684090c2

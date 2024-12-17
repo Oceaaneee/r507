@@ -71,7 +71,7 @@
     </plugins>
 </build>
 <properties>
-    <sonar.projectKey>Java-SonarQube-JaCoCo-Demo</sonar.projectKey>
+    <sonar.projectKey>r507</sonar.projectKey>
     <sonar.host.url>http://localhost:9000</sonar.host.url>
     <sonar.login>sqp_a37bfb94caed3e0e3ac1541d6fd0db2ea6732a3d</sonar.login>
     <sonar.coverage.jacoco.xmlReportPaths>target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
